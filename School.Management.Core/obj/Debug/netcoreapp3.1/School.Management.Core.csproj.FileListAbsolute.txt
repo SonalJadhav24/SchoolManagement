@@ -1,0 +1,9 @@
+C:\Sonal\november 2020 study\School.Management.Core\bin\Debug\netcoreapp3.1\School.Management.Core.deps.json
+C:\Sonal\november 2020 study\School.Management.Core\bin\Debug\netcoreapp3.1\School.Management.Core.dll
+C:\Sonal\november 2020 study\School.Management.Core\bin\Debug\netcoreapp3.1\School.Management.Core.pdb
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.csprojAssemblyReference.cache
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.AssemblyInfoInputs.cache
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.AssemblyInfo.cs
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.csproj.CoreCompileInputs.cache
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.dll
+C:\Sonal\november 2020 study\School.Management.Core\obj\Debug\netcoreapp3.1\School.Management.Core.pdb
