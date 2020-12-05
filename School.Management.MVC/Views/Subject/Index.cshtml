@@ -1,0 +1,43 @@
+﻿@model IEnumerable<School.Management.Core.Entities.Subject>
+
+@{
+    ViewData["Title"] = "Subject list ";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<p>
+    <a>Year : </a>  @ViewBag.Year
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SubjectName)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubjectID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SubjectName)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {  id=item.SubjectID  }) |             
+                @Html.ActionLink("Delete", "Delete", new {  id=item.SubjectID })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
